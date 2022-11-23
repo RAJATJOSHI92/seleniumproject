@@ -14,6 +14,7 @@ public class TwoTest extends Base {
     public void twoTest() throws IOException, InterruptedException {
         System.out.println("test two");
        System.out.println("third attempt");
+        System.out.println("fourth attempt");
        driver = driverIntialize();
        driver.get("http://www.tutorialsninja.com/demo/");
        Thread.sleep(2000);
