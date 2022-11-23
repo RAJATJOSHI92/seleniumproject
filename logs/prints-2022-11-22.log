@@ -1,0 +1,8 @@
+19:40:23.758 [main] DEBUG test.LoginTest - browser launched
+19:40:39.304 [main] DEBUG test.LoginTest - navigate to url
+19:40:39.644 [main] DEBUG test.LoginTest - Clicked on My Account dropdown
+19:40:41.540 [main] DEBUG test.LoginTest - Clicked on login option
+19:40:44.839 [main] DEBUG test.LoginTest - Email addressed got entered
+19:40:44.976 [main] DEBUG test.LoginTest - Password got entered
+19:40:45.901 [main] DEBUG test.LoginTest - Clicked on Login Button
+19:40:46.019 [main] DEBUG test.LoginTest - User got logged in
